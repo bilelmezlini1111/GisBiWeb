@@ -1,0 +1,25 @@
+{
+  "name": "GisBi Web",
+  "short_name": "GisBi",
+  "description": "نسخة Safari/PWA لإضافة نقاط على الخريطة وحفظها محليًا.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#0b7a75",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
